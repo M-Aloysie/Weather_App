@@ -155,10 +155,6 @@ span {
   transition: .4s;
 }
 
-input:checked+.slider {
-  background-colSor: #06344d;
-}
-
 input:focus+.slider {
   box-shadow: 0 0 1px #6fccff;
 }
